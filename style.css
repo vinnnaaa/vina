@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #FFEDED;
+  }
+  section {
+    padding-top: 5rem;
+  }
+  footer {
+    background-color: #EED7CE;
+  }
+  #Home {
+    background-color: #FBF3E4
+  }
+  #About {
+    background-color: #FBF3E4;
+  }
+  #Katalog {
+    background-color: #FEECE9;
+  }
+  #Model {
+    background-color: #FBF3E4;
+  }
+  #Contact {
+    background-color: #FFEDED;
